@@ -1,16 +1,17 @@
-## Hi there 👋
+## ⚫ Eduardo Francisco  
+**`Desenvolvedor Back-end`**   
+#### Meu nome é Eduardo Francisco Mauro Gonçalves, eu moro em São Paulo e no momento estou cursando Engenharia de Software na FIAP, em poucos meses descobri que sou louco por tecnologia, adoro resolver problemas, criar projetos e aprender coisas novas. 
+#
+## SKILLS:
 
-<!--
-**dudslyx/dudslyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()[![Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)]()[![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()[![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
-Here are some ideas to get you started:
+## SOCIAL:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-francisco-b78139356/)[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudslyx/)[![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com)[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u)
+
+## STATS:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dudslyx&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudslyx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+##
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t4MzZteG5wb2RmN3phcDNsZHEzdmUwY2hpeHd2cDZkMXJhNW84cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8MKABdDxtEj8k0/giphy.gif)
